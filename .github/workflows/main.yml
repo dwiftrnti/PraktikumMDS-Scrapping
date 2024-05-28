@@ -1,4 +1,4 @@
-name: scrape_MDSsrapping
+name: scrape_mds
 
 on:
   schedule:
@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
     
 jobs:
-  MDSsrapping-scrape:
+  mds-scrape:
     runs-on: macOS-latest
     env:
       ATLAS_URL: ${{ secrets.ATLAS_URL }}
@@ -23,5 +23,5 @@ jobs:
         install.packages("tidyverse", dependencies = TRUE)
         install.packages("mongolite")
       shell: Rscript {0} 
-    - name: Scrape Data MDSsrapping
+    - name: Scrape Data mds
       run: Rscript MDSsrapping.R
