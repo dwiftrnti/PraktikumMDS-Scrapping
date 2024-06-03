@@ -18,9 +18,9 @@ links <- page %>% html_nodes(xpath = '//h4[@class="articles--iridescent-list--te
 
 data <- data.frame(
   time_scraped = Sys.time(),
-  titles = head(titles, 20),
-  dates = head(dates, 20),
-  links = head(links, 20),
+  titles = head(titles, 10),
+  dates = head(dates, 10),
+  links = head(links, 10),
   stringsAsFactors = FALSE
 )
 
