@@ -1,7 +1,7 @@
 <div align="center"><h1><b>Unveiling the Truth: Scraping Cek Fakta</b></h1>
 </div>
-<p align="center" width="100%">
-    <img width="100%" src="logo/logo liputan 6.png">
+<p align="center" width="70%">
+    <img width="70%" src="logo/logo liputan 6.png">
 </p>
 
 <div align="center">
