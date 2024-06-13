@@ -12,9 +12,9 @@
 ## 📰: Main Menu
 </div>
 
-[🔎: Deskripsi Projek](#mag_right-deskripsi-projek)
+[:mag_right: Deskripsi Projek](#mag_right-deskripsi-projek)
 •
-[:newspaper: Liputan6 : Cek Fakta](#newspape-kenapa-harus-liputan6-?)
+[:newspaper: Liputan6 : Cek Fakta](#newspaper-kenapa-harus-liputan6-?)
 •
 [:open_file_folder: Dokumen Projek](#open_file_folder-dokumen-projek)
 •
@@ -26,7 +26,7 @@
 </div>
 
 
-## 🔎: Deskripsi Projek
+## :mag_right: Deskripsi Projek
 
 riugycifvbwehjfkdshfbvjbehdvjnjekvbhjbwvwr
 
