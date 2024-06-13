@@ -14,14 +14,19 @@
 
 [:mag_right: Deskripsi Projek](#mag_right-deskripsi-projek)
 •
+
 [:newspaper: Liputan6 : Cek Fakta](#newspaper-liputan-6)
 •
+
 [:open_file_folder: Dokumen Projek](#open_file_folder-dokumen-projek)
 •
+
 [:computer: Presentasi](#computer-presentasi)
 •
+
 [:bar_chart: Visualisasi Data](#bar_chart-visualisasi-data)
 •
+
 [:woman_technologist: Developers](#woman_technologist-developers)
 </div>
 
