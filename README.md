@@ -4,7 +4,7 @@
 
 
 <p align="center" width="60%">
-    <img width="60%" src="https://farmasi.setiabudi.ac.id/wp-content/uploads/2023/09/LOKER.png">
+    <img width="60%" src="logo/Screenshot 2024-06-13 163526.png">
 </p>
 
 <div align="center">
