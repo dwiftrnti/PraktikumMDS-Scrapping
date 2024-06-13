@@ -11,10 +11,9 @@
 
 ##  Main Menu
 </div>
+•[:newspaper: Liputan6 : Cek Fakta](#newspaper-liputan-6)
 
 •[:mag_right: Deskripsi Projek](#mag_right-deskripsi-projek)
-
-•[:newspaper: Liputan6 : Cek Fakta](#newspaper-liputan-6)
 
 •[:open_file_folder: Dokumen Projek](#open_file_folder-dokumen-projek)
 
@@ -25,14 +24,9 @@
 •[:woman_technologist: Developers](#woman_technologist-developers)
 </div>
 
-
-## :mag_right: Deskripsi Projek
-
-riugycifvbwehjfkdshfbvjbehdvjnjekvbhjbwvwr
-
 ## :newspaper: Liputan 6
 
-fuivhriuvhuytbovubhvuti3bhv3ruibvtihbver
+## :mag_right: Deskripsi Projek
 
 ## :open_file_folder: Dokumen Projek
 
