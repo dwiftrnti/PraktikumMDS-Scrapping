@@ -12,22 +12,17 @@
 ## 📰: Main Menu
 </div>
 
-[:mag_right: Deskripsi Projek](#mag_right-deskripsi-projek)
-•
+•[:mag_right: Deskripsi Projek](#mag_right-deskripsi-projek)
 
-[:newspaper: Liputan6 : Cek Fakta](#newspaper-liputan-6)
-•
+•[:newspaper: Liputan6 : Cek Fakta](#newspaper-liputan-6)
 
-[:open_file_folder: Dokumen Projek](#open_file_folder-dokumen-projek)
-•
+•[:open_file_folder: Dokumen Projek](#open_file_folder-dokumen-projek)
 
-[:computer: Presentasi](#computer-presentasi)
-•
+•[:computer: Presentasi](#computer-presentasi)
 
-[:bar_chart: Visualisasi Data](#bar_chart-visualisasi-data)
-•
+•[:bar_chart: Visualisasi Data](#bar_chart-visualisasi-data)
 
-[:woman_technologist: Developers](#woman_technologist-developers)
+•[:woman_technologist: Developers](#woman_technologist-developers)
 </div>
 
 
