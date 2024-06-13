@@ -9,7 +9,7 @@
 [![scrape_mds](https://github.com/dwiftrnti/PraktikumMDS-Scrapping/actions/workflows/main.yml/badge.svg)](https://github.com/dwiftrnti/PraktikumMDS-Scrapping/actions/workflows/main.yml)
 </div>
 
-## 📰: Main Menu
+##  Main Menu
 </div>
 
 •[:mag_right: Deskripsi Projek](#mag_right-deskripsi-projek)
