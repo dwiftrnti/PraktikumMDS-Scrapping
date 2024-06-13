@@ -4,7 +4,7 @@
 
 
 <p align="center" width="60%">
-    <img width="60%" src="logo/Screenshot 2024-06-13 163526.png">
+    <img width="60%" src="logo/logo liputan 6.png">
 </p>
 
 <div align="center">
