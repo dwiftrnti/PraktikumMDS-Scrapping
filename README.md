@@ -14,7 +14,7 @@
 
 [🔎Deskripsi Projek](#🔎deskripsi-projek)
 •
-[🗞 Liputan6 : Cek Fakta](#scroll-about-pramborsfm)
+[🗞 Liputan6 : Cek Fakta](#🗞-kenapa-harus-Liputan6-?)
 •
 [📂 Dokumen Projek](#books-technical-documentation)
 •
@@ -26,3 +26,17 @@
 </div>
 
 ## 🔎Deskripsi Projek
+ecgyge2ichweuichwucjwkopkqwiodh2ed
+jdwehceuceic
+hjxwbchiweche
+wbciwehcewocjoiec
+hbciecbcui3hc3o
+kjsoi2hcg32i
+hichwiyegci
+
+## 🗞Kenapa Harus Liputan6 ?
+jiocwehcuiewgqcyueguvcq3
+cehcuyeq3
+nhewbcuy3e
+h3buch3b
+
