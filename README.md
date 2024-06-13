@@ -12,31 +12,37 @@
 ## 📰: Main Menu
 </div>
 
-[🔎Deskripsi Projek](#🔎deskripsi-projek)
+[:mag_left: Deskripsi Projek](#mag_left-deskripsi-projek)
 •
-[🗞 Liputan6 : Cek Fakta](#🗞-kenapa-harus-Liputan6-?)
+[:newspaper: Liputan6 : Cek Fakta](#newspape-kenapa-harus-liputan6-?)
 •
-[📂 Dokumen Projek](#books-technical-documentation)
+[:open_file_folder: Dokumen Projek](#open_file_folder-dokumen-projek)
 •
-[💻 Presentasi](#microphone-presentation)
+[:computer: Presentasi](#computer-presentasi)
 •
-[📉 Visualisasi Data](#man_technologist-developers)
+[:bar_chart: Visualisasi Data](#bar_chart-visualisasi-data)
 •
-[👩🏻‍💻 Developers](#camera_flash-media-gallery)
+[:woman_technologist: Developers](#woman_technologist-developers)
 </div>
 
-## 🔎Deskripsi Projek
-ecgyge2ichweuichwucjwkopkqwiodh2ed
-jdwehceuceic
-hjxwbchiweche
-wbciwehcewocjoiec
-hbciecbcui3hc3o
-kjsoi2hcg32i
-hichwiyegci
 
-## 🗞Kenapa Harus Liputan6 ?
-jiocwehcuiewgqcyueguvcq3
-cehcuyeq3
-nhewbcuy3e
-h3buch3b
+## :mag_left: Deskripsi Projek
+
+riugycifvbwehjfkdshfbvjbehdvjnjekvbhjbwvwr
+
+## :newspaper: Kenapa Harus Liputan6?
+
+fuivhriuvhuytbovubhvuti3bhv3ruibvtihbver
+
+## :open_file_folder: Dokumen Projek
+
+uerhvyureivbeiuvehvyieobw ief
+
+## :computer: Presentasi
+
+ihdwgfuygyugvoi3bvu3heicuewhcuieh3uvi3r
+
+## :bar_chart: Visualisasi Data
+## :woman_technologist: Developers
+
 
