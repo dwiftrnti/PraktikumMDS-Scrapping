@@ -30,7 +30,7 @@
 
 riugycifvbwehjfkdshfbvjbehdvjnjekvbhjbwvwr
 
-## :newspaper: Kenapa Harus Liputan6?
+## :newspaper: Kenapa Harus Liputan6 ?
 
 fuivhriuvhuytbovubhvuti3bhv3ruibvtihbver
 
