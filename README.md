@@ -14,7 +14,7 @@
 
 [:mag_right: Deskripsi Projek](#mag_right-deskripsi-projek)
 •
-[:newspaper: Liputan6 : Cek Fakta](#newspaper-liputan6-:-cek-fakta)
+[:newspaper: Liputan6 : Cek Fakta](#newspaper-liputan6)
 •
 [:open_file_folder: Dokumen Projek](#open_file_folder-dokumen-projek)
 •
@@ -30,7 +30,7 @@
 
 riugycifvbwehjfkdshfbvjbehdvjnjekvbhjbwvwr
 
-## :newspaper: Liputan6 : Cek Fakta
+## :newspaper: Liputan6
 
 fuivhriuvhuytbovubhvuti3bhv3ruibvtihbver
 
