@@ -9,30 +9,42 @@
 [![scrape_mds](https://github.com/dwiftrnti/PraktikumMDS-Scrapping/actions/workflows/main.yml/badge.svg)](https://github.com/dwiftrnti/PraktikumMDS-Scrapping/actions/workflows/main.yml)
 </div>
 
-##  Main Menu
+<div align="center">
+
+## ⚙️Main Menu
 </div>
 
-•[:newspaper: Liputan6 : Cek Fakta](#newspaper-liputan-6)
+<div align="center"><h3><em>Curious? Click here to find out more!</h3></em>
+</div>
+<div align="center">
 
-•[:mag_right: Deskripsi Projek](#mag_right-deskripsi-projek)
+[:newspaper: Liputan6 : Cek Fakta](#newspaper-liputan-6)
 
-•[:open_file_folder: Dokumen Projek](#open_file_folder-dokumen-projek)
+[:mag_right: Deskripsi Projek](#mag_right-deskripsi-projek)
 
-•[:computer: Presentasi](#computer-presentasi)
+[:open_file_folder: Dokumen Projek](#open_file_folder-dokumen-projek)
 
-•[:bar_chart: Visualisasi Data](#bar_chart-visualisasi-data)
+[:computer: Presentasi](#computer-presentasi)
 
-•[:woman_technologist: Developers](#woman_technologist-developers)
+[:bar_chart: Visualisasi Data](#bar_chart-visualisasi-data)
+
+[:woman_technologist: Developers](#woman_technologist-developers)
 </div>
 
 ## :newspaper: Liputan 6
 
-<div><b>Cek Fakta: Kebenaran di Balik Berita yang Viral dari Liputan 6</b>
+<div>
+    <b>Cek Fakta: Kebenaran di Balik Berita yang Viral dari Liputan 6</b>
 </div>
-
 Apakah Anda pernah merasa bingung dengan berita yang beredar di media sosial?
+
 Di era digital ini, berita palsu atau hoaks semakin marak dan sering kali sulit dibedakan dari berita asli. Inilah mengapa Liputan6 hadir dengan segmen <b>"Cek Fakta"</b> untuk memastikan Anda mendapatkan informasi yang benar dan dapat dipercaya.
 
+</div>
+<p align="center" width="60%">
+    <img width="60%" src="logo/logo liputan 6.png">
+</p>
+    
 <div><b>Mengapa "Cek Fakta" Penting?</b>
 </div>
 Ketika informasi yang salah menyebar, dampaknya bisa sangat merugikan. Baik itu soal kesehatan, politik, atau isu sosial lainnya, berita palsu dapat menyesatkan banyak orang. "Cek Fakta" Liputan6 bekerja keras untuk menyaring kebenaran dari kebohongan, memberikan Anda penjelasan yang akurat dan berdasarkan bukti.
