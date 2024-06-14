@@ -49,7 +49,7 @@ Di era digital ini, berita palsu atau hoaks semakin marak dan sering kali sulit 
 <div><b>Mengapa "Cek Fakta" Penting?</b>
 </div>
 <div align="justify">
-Ketika informasi yang salah menyebar, dampaknya bisa sangat merugikan. Baik itu soal kesehatan, politik, atau isu sosial lainnya, berita palsu dapat menyesatkan banyak orang. "Cek Fakta" Liputan6 bekerja keras untuk menyaring kebenaran dari kebohongan, memberikan Anda penjelasan yang akurat dan berdasarkan bukti.
+Ketika informasi yang salah menyebar, dampaknya bisa sangat merugikan. Baik itu soal kesehatan, politik, atau isu sosial lainnya, berita palsu dapat menyesatkan banyak orang. <b>"Cek Fakta"</b> Liputan6 bekerja keras untuk menyaring kebenaran dari kebohongan, memberikan Anda penjelasan yang akurat dan berdasarkan bukti.
 </div>
 
 <p align="center" width="40%">
@@ -58,22 +58,38 @@ Ketika informasi yang salah menyebar, dampaknya bisa sangat merugikan. Baik itu 
 
 <div><b>Proses di Balik "Cek Fakta"</b></div>
 <div align="justify">
-Tim jurnalis di Liputan6 menggunakan berbagai metode untuk memverifikasi informasi. Mereka mengandalkan sumber terpercaya, wawancara dengan ahli, dan alat-alat digital canggih untuk menelusuri asal-usul sebuah klaim. Setiap artikel "Cek Fakta" dirancang untuk memberikan penjelasan yang jelas dan mendalam, sehingga Anda tidak hanya tahu apa yang benar, tetapi juga mengerti mengapa itu benar.
+Tim jurnalis di Liputan6 menggunakan berbagai metode untuk memverifikasi informasi. Mereka mengandalkan sumber terpercaya, wawancara dengan ahli, dan alat-alat digital canggih untuk menelusuri asal-usul sebuah klaim. Setiap artikel <b>"Cek Fakta"</b> dirancang untuk memberikan penjelasan yang jelas dan mendalam, sehingga Anda tidak hanya tahu apa yang benar, tetapi juga mengerti mengapa itu benar.
 </div>
 </p>
 
 <div><b>Mengapa Anda Harus Membaca "Cek Fakta"?</b></div>
 <div align="justify">
-Setiap kali Anda membaca artikel "Cek Fakta" dari Liputan6, Anda tidak hanya mendapatkan kebenaran, tetapi juga belajar bagaimana mengenali tanda-tanda berita palsu. Ini adalah keterampilan berharga di zaman sekarang, di mana informasi begitu mudah diakses namun sering kali tidak dapat dipercaya.
+Setiap kali Anda membaca artikel <b>"Cek Fakta"</b> dari Liputan6, Anda tidak hanya mendapatkan kebenaran, tetapi juga belajar bagaimana mengenali tanda-tanda berita palsu. Ini adalah keterampilan berharga di zaman sekarang, di mana informasi begitu mudah diakses namun sering kali tidak dapat dipercaya.
 </div>
 <p align="center" width="40%">
     <img width="30%" src="logo/hoax.png">
 </p>
 <div align="justify">
-Jadi, jangan biarkan diri Anda terjebak oleh hoaks dan desas-desus yang menyesatkan. Selalu cek kebenaran dengan Liputan6. Tetap bijak, tetap kritis, dan pastikan Anda selalu mendapatkan informasi yang akurat. Kunjungi segmen "Cek Fakta" di Liputan6 dan jadilah bagian dari masyarakat yang terinformasi dengan baik!
+Jadi, jangan biarkan diri Anda terjebak oleh hoaks dan desas-desus yang menyesatkan. Selalu cek kebenaran dengan Liputan6. Tetap bijak, tetap kritis, dan pastikan Anda selalu mendapatkan informasi yang akurat. Kunjungi segmen <b>"Cek Fakta"</b> di Liputan6 dan jadilah bagian dari masyarakat yang terinformasi dengan baik!
 </div>
 
 ## :mag_right: Deskripsi Projek
+
+<div align="justify"> Proyek scraping otomatis berita dari situs Liputan6 dilakukan untuk mengumpulkan dan menganalisis informasi terbaru mengenai <b>"Cek fakta"</b>. Dengan mengakses data langsung dari Liputan6, proyek ini bertujuan untuk menyediakan wawasan mendalam tentang verifikasi berita dan dinamika penyebaran informasi di Indonesia. Scraping berita otomatis ini dilakukan pada website : https://www.liputan6.com/cek-fakta
+</div>
+
+<p align="center" width="40%">
+    <img width="30%" src="logo/jurnalis.png">
+</p>
+
+<div><b>Langkah-langkah Proyek:</b></div>
+</p>
+<div align="justify">
+<div><b>Scraping Otomatis:</b> Menggunakan GitHub, kami mengotomatisasi proses pengambilan data dari situs berita Liputan6. Data yang diambil difokuskan pada artikel-artikel cek fakta.</div>
+<div><b>Penyimpanan di MongoDB:</b> Hasil scraping disimpan dengan aman dan efisien di MongoDB, database NoSQL yang handal untuk mengelola data dalam jumlah besar.</div>
+<div><b>Visualisasi Data di R:</b> Data yang telah dikumpulkan kemudian dianalisis dan divisualisasikan menggunakan aplikasi R, memberikan pandangan mendalam dan mudah dipahami tentang tren dan pola dari berita cek fakta tersebut.
+</div>
+
 
 ## :open_file_folder: Dokumen Projek
 
