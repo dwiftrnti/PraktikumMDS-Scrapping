@@ -79,7 +79,7 @@ Jadi, jangan biarkan diri Anda terjebak oleh hoaks dan desas-desus yang menyesat
 </div>
 
 <p align="center" width="40%">
-    <img width="30%" src="logo/jurnalis.png">
+    <img width="40%" src="logo/scraping.png">
 </p>
 
 <div><b>Langkah-langkah Proyek:</b></div>
@@ -91,15 +91,40 @@ Jadi, jangan biarkan diri Anda terjebak oleh hoaks dan desas-desus yang menyesat
 </div>
 
 
+</p> 
+Dalam hal ini, data yang akan dilakukan scraping berkaitan dengan :
+
+- **id**: Id unik dari setiap entri berita yang di-scrape, digunakan untuk membedakan setiap berita dalam basis data.
+- **titles**: Judul berita yang memberikan gambaran singkat tentang isi artikel.
+- **dates**: Waktu yang menunjukkan kapan berita tersebut dipublikasikan atau terakhir diperbarui.
+- **link**: URL lengkap yang mengarah langsung ke halaman berita di situs berita.
+</p>
+
 ## :open_file_folder: Dokumen Projek
 
-uerhvyureivbeiuvehvyieobw ief
+Berikut ini merupakan salah satu dokumen yang tersimpan di MongoDB sebagai hasil dari scraping. Setiap dokumen mewakili sebuah artikel berita yang diambil dari bagian berita <b>"Cek fakta"</b> Liputan6. Dokumen ini merepresentasikan satu artikel berita dengan detail utama seperti judul, tanggal, dan tautan ke artikel lengkap.
+
+```mongodb
+{
+  "_id": {
+    "$oid": "666ba4fbe648d802090a3146"
+  },
+  "time_scraped": {
+    "$date": "2024-06-14T02:03:36.518Z"
+  },
+  "titles": "Darurat Hoaks Jelang Pilkada, Lakukan Tips Berikut Biar Tidak Terjebak",
+  "dates": "13 Jun 2024 07:47",
+  "links": "https://www.liputan6.com/cek-fakta/read/5618340/darurat-hoaks-jelang-pilkada-lakukan-tips-berikut-biar-tidak-terjebak"
+}
+```
 
 ## :computer: Presentasi
 
 ihdwgfuygyugvoi3bvu3heicuewhcuieh3uvi3r
 
 ## :bar_chart: Visualisasi Data
+
 ## :woman_technologist: Developers
+[Dwi Fitrianti](https://github.com/dwiftrnti) (G1501231013)
 
 
