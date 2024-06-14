@@ -43,7 +43,7 @@ Di era digital ini, berita palsu atau hoaks semakin marak dan sering kali sulit 
 </div>
 </div>
 <p align="center" width="50%">
-    <img width="50%" src="logo/cek fakta.png">
+    <img width="40%" src="logo/cek fakta.png">
 </p>
     
 <div><b>Mengapa "Cek Fakta" Penting?</b>
@@ -53,7 +53,7 @@ Ketika informasi yang salah menyebar, dampaknya bisa sangat merugikan. Baik itu 
 </div>
 
 <p align="center" width="40%">
-    <img width="40%" src="logo/jurnalis.png">
+    <img width="30%" src="logo/jurnalis.png">
 </p>
 
 <div><b>Proses di Balik "Cek Fakta"</b></div>
@@ -67,9 +67,8 @@ Tim jurnalis di Liputan6 menggunakan berbagai metode untuk memverifikasi informa
 Setiap kali Anda membaca artikel "Cek Fakta" dari Liputan6, Anda tidak hanya mendapatkan kebenaran, tetapi juga belajar bagaimana mengenali tanda-tanda berita palsu. Ini adalah keterampilan berharga di zaman sekarang, di mana informasi begitu mudah diakses namun sering kali tidak dapat dipercaya.
 </div>
 <p align="center" width="40%">
-    <img width="40%" src="logo/hoax.png">
+    <img width="30%" src="logo/hoax.png">
 </p>
-
 <div align="justify">
 Jadi, jangan biarkan diri Anda terjebak oleh hoaks dan desas-desus yang menyesatkan. Selalu cek kebenaran dengan Liputan6. Tetap bijak, tetap kritis, dan pastikan Anda selalu mendapatkan informasi yang akurat. Kunjungi segmen "Cek Fakta" di Liputan6 dan jadilah bagian dari masyarakat yang terinformasi dengan baik!
 </div>
