@@ -52,8 +52,8 @@ Di era digital ini, berita palsu atau hoaks semakin marak dan sering kali sulit 
 Ketika informasi yang salah menyebar, dampaknya bisa sangat merugikan. Baik itu soal kesehatan, politik, atau isu sosial lainnya, berita palsu dapat menyesatkan banyak orang. "Cek Fakta" Liputan6 bekerja keras untuk menyaring kebenaran dari kebohongan, memberikan Anda penjelasan yang akurat dan berdasarkan bukti.
 </div>
 
-<p align="center" width="50%">
-    <img width="50%" src="logo/cek fakta.png">
+<p align="center" width="40%">
+    <img width="40%" src="logo/jurnalis.png">
 </p>
 
 <div><b>Proses di Balik "Cek Fakta"</b></div>
@@ -66,8 +66,8 @@ Tim jurnalis di Liputan6 menggunakan berbagai metode untuk memverifikasi informa
 <div align="justify">
 Setiap kali Anda membaca artikel "Cek Fakta" dari Liputan6, Anda tidak hanya mendapatkan kebenaran, tetapi juga belajar bagaimana mengenali tanda-tanda berita palsu. Ini adalah keterampilan berharga di zaman sekarang, di mana informasi begitu mudah diakses namun sering kali tidak dapat dipercaya.
 </div>
-<p align="center" width="50%">
-    <img width="50%" src="logo/cek fakta.png">
+<p align="center" width="40%">
+    <img width="40%" src="logo/hoax.png">
 </p>
 
 <div align="justify">
