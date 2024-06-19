@@ -123,7 +123,7 @@ Berikut ini merupakan salah satu dokumen yang tersimpan di MongoDB sebagai hasil
 Data yang telah diperoleh dari Liputan6 : Cek Fakta, melalui scraping otomatis akan divisualisasikan menggunakan aplikasi R. Untuk melihat hasil visualisasi beserta syntax yang digunakan: [Syntax Visualisasi Data Cek Fakta Liputan6](https://rpubs.com/dwiftrnti/Liputan6_Cekfakta).
 
 ## :computer: Presentasi
-Penasaran dengan hasil visualisasi dari scraping otomatis? Yuk! Untuk melihat hasil visualisasi dan interpretasi dari scraping otomatis dari Liputan6 : Cekfakta. klik link berikut ini : Dwi Fitrianti-G1501231013-PPTUAS.pdf
+Penasaran dengan hasil visualisasi dari scraping otomatis? Yuk! Untuk melihat hasil visualisasi dan interpretasi dari scraping otomatis dari Liputan6 : Cekfakta. klik link berikut ini : [Dwi Fitrianti-G1501231013-PPTUAS.pdf](https://github.com/dwiftrnti/PraktikumMDS-Scrapping/blob/main/Dwi%20Fitrianti-G1501231013-PPTUAS.pdf)
 
 ## :woman_technologist: Developers
 [Dwi Fitrianti](https://github.com/dwiftrnti) (G1501231013)
