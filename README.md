@@ -120,6 +120,8 @@ Berikut ini merupakan salah satu dokumen yang tersimpan di MongoDB sebagai hasil
 
 ## :bar_chart: Visualisasi Data
 
+Data yang telah diperoleh dari Liputan6 : Cek Fakta, melalui scraping otomatis akan divisualisasikan menggunakan aplikasi R. Kami mengundang Anda untuk melihat hasil visualisasinya berikut ini, beserta syntax yang digunakan: [Syntax Visualisasi Data Cek Fakta Liputan6](https://rpubs.com/dwiftrnti/Liputan6_Cekfakta).
+
 ## :computer: Presentasi
 
 ihdwgfuygyugvoi3bvu3heicuewhcuieh3uvi3r
