@@ -24,9 +24,9 @@
 
 [:open_file_folder: Dokumen Projek](#open_file_folder-dokumen-projek)
 
-[:computer: Presentasi](#computer-presentasi)
-
 [:bar_chart: Visualisasi Data](#bar_chart-visualisasi-data)
+
+[:computer: Presentasi](#computer-presentasi)
 
 [:woman_technologist: Developers](#woman_technologist-developers)
 </div>
@@ -118,11 +118,13 @@ Berikut ini merupakan salah satu dokumen yang tersimpan di MongoDB sebagai hasil
 }
 ```
 
+## :bar_chart: Visualisasi Data
+
 ## :computer: Presentasi
 
 ihdwgfuygyugvoi3bvu3heicuewhcuieh3uvi3r
 
-## :bar_chart: Visualisasi Data
+
 
 ## :woman_technologist: Developers
 [Dwi Fitrianti](https://github.com/dwiftrnti) (G1501231013)
